@@ -1,1 +1,1 @@
-print("Hi amazing students!")
+print("Hi amazing student!")
